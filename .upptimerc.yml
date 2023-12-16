@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/netz0network/status/master/assets/upptime-icon.svg
   name: Netz0 Network Status
   introTitle: "Real-Time Network Status and Service Updates for Netz0"
-  introMessage: Stay updated with real-time information on our network and services, including any incidents or maintenance activities. Your connection is our priority.
+  introMessage: Stay updated with refal-time information on our network and services, including any incidents or maintenance activities. Your connection is our priority.
   navbar:
     - title: Status
       href: /
