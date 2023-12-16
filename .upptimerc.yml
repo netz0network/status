@@ -44,5 +44,9 @@ status-website:
     - title: Netz0
       href: https://netz0.com
 
+commitMessages:
+  commitAuthorName: "Uptime Bot"
+  commitAuthorEmail: "info@netz0.com"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
