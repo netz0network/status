@@ -7,9 +7,13 @@ sites:
     url: https://netz0.com
   - name: Account & Support Area
     url: https://netz0.com/global/check
-  - name: App & Services
+  - name: Apps & Services
     check: "tcp-ping"
     url: 174.136.17.9
+    port: 80
+  - name: Network & Management
+    check: "tcp-ping"
+    url: $N_IP
     port: 80
   - name: DNS 1
     check: "tcp-ping"
