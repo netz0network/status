@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Netz0 Network Status
   introTitle: "Real-Time Network Status and Service Updates for Netz0"
-  introMessage: Welcome to the Netz0 Status Page! Here, you'll find real-time updates and detailed reports on the current status of all Netz0 network services and infrastructure. Stay informed about any incidents, scheduled maintenance, and service disruptions as they happen. Our commitment is to ensure transparency and provide you with the most up-to-date information to keep you connected and operational. For any immediate concerns, please don't hesitate to contact our support team. Thank you for choosing Netz0!
+  introMessage: Welcome to the Netz0 Status Page. Stay updated with real-time information on our network and services, including any incidents or maintenance activities. Your connection is our priority.
   navbar:
     - title: Status
       href: /
