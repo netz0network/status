@@ -1,40 +1,22 @@
 [
   {
-    "name": "Website",
-    "url": "https://netz0.com",
-    "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
-    "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1536,
-    "timeDay": 1536,
-    "timeWeek": 1536,
-    "timeMonth": 1536,
-    "timeYear": 1536,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Network",
-    "url": "174.136.17.1",
+    "url": "174.136.17.17",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
-    "status": "down",
-    "uptime": "78.97%",
-    "uptimeDay": "78.97%",
-    "uptimeWeek": "78.97%",
-    "uptimeMonth": "78.97%",
-    "uptimeYear": "78.97%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "9.20%",
+    "uptimeDay": "9.20%",
+    "uptimeWeek": "9.20%",
+    "uptimeMonth": "9.20%",
+    "uptimeYear": "9.20%",
+    "time": 39,
+    "timeDay": 39,
+    "timeWeek": 39,
+    "timeMonth": 39,
+    "timeYear": 39,
     "dailyMinutesDown": {
-      "2023-12-16": 0
+      "2023-12-16": 5
     }
   }
 ]
