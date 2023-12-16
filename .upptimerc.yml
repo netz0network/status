@@ -32,6 +32,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: netz0
+  themeUrl: https://netz0.network/netz0.css
   cname: netz0.network
   # baseUrl: /your-repo-name
   logoUrl: https://netz0.network/logo-netz0.png
