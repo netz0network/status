@@ -35,7 +35,7 @@ status-website:
   #themeUrl: https://netz0.network/netz0.css
   cname: netz0.network
   # baseUrl: /your-repo-name
-  logoUrl: https://netz0.network/logo-netz0.png
+  logoUrl: https://netz0.network/logo.png
   name: Netz0 Network Status
   introTitle: "Real-Time Network Status and Service Updates for Netz0"
   introMessage: Stay updated with real-time information on our network and services, including any incidents or maintenance activities. Your connection is our priority.
