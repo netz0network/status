@@ -11,7 +11,7 @@ sites:
     check: "tcp-ping"
     url: 174.136.17.9
     port: 80
-  - name: Network & Management
+  - name: Network & Administration
     check: "tcp-ping"
     url: $N_IP
     port: 80
