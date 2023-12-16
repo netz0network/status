@@ -40,7 +40,7 @@ status-website:
   introMessage: Stay updated with real-time information on our network and services, including any incidents or maintenance activities. Your connection is our priority.
   navbar:
     - title: Uptime SLA
-      href: https://stats.uptimerobot.com/JP85VFpgEO
+      href: https://uptime.netz0.network
     - title: Netz0
       href: https://netz0.com
 
