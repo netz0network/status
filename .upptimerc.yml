@@ -51,7 +51,7 @@ commitMessages:
   commitAuthorEmail: "info@netz0.com"
 
 i18n:
-  footer: Incidents can take up to 5 minutes until they are updated.
+  footer: Incidents can take up to 5 minutes until they are updated on this page.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
