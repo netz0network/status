@@ -29,11 +29,9 @@ sites:
     port: 53
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-
   name: Netz0 Network Status
   logoUrl: https://raw.githubusercontent.com/netz0network/status/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/netz0network/status/master/assets/favicon.png
   cname: netz0.network
   theme: dark
   #themeUrl: https://raw.githubusercontent.com/netz0network/status/master/assets/netz0.css
@@ -51,7 +49,7 @@ commitMessages:
   commitAuthorEmail: "info@netz0.com"
 
 i18n:
-  footer: Incidents can take up to 5 minutes until they are updated on this page.
+  footer: Incidents can take up to 5 minutes until they are updated.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
