@@ -36,7 +36,7 @@ sites:
 
   - name: Test Net
     check: "tcp-ping"
-    url: 174.136.17.9
+    url: 174.136.17.8
     port: 80
 
 assignees:
