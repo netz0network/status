@@ -130,19 +130,19 @@
     "url": "174.136.17.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-net",
-    "status": "down",
-    "uptime": "78.04%",
-    "uptimeDay": "78.04%",
-    "uptimeWeek": "78.04%",
-    "uptimeMonth": "78.04%",
-    "uptimeYear": "78.04%",
-    "time": 35,
-    "timeDay": 35,
-    "timeWeek": 35,
-    "timeMonth": 35,
-    "timeYear": 35,
+    "status": "up",
+    "uptime": "70.10%",
+    "uptimeDay": "70.10%",
+    "uptimeWeek": "70.10%",
+    "uptimeMonth": "70.10%",
+    "uptimeYear": "70.10%",
+    "time": 36,
+    "timeDay": 36,
+    "timeWeek": 36,
+    "timeMonth": 36,
+    "timeYear": 36,
     "dailyMinutesDown": {
-      "2023-12-26": 34
+      "2023-12-26": 52
     }
   }
 ]
