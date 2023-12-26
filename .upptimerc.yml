@@ -7,26 +7,36 @@ sites:
     url: https://netz0.com
   - name: Account & Support Area
     url: https://netz0.com/global/check
+
   - name: Apps & Services
     check: "tcp-ping"
     url: 174.136.17.9
     port: 80
+
   - name: Network & Administration
     check: "tcp-ping"
     url: $N_IP
     port: 80
+
   - name: DNS 1
     check: "tcp-ping"
     url: ns1.netz0.net
     port: 53
+
   - name: DNS 2
     check: "tcp-ping"
     url: ns2.netz0.net
     port: 53
+
   - name: DNS 3
     check: "tcp-ping"
     url: ns3.netz0.net
     port: 53
+
+  - name: Test net
+    check: "tcp-ping"
+    url: 174.136.17.8
+    port: 80
 
 status-website:
   name: Netz0 Network Status
