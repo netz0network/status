@@ -4,19 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1472,
-    "timeDay": 1550,
-    "timeWeek": 1376,
-    "timeMonth": 1451,
-    "timeYear": 1472,
+    "time": 1478,
+    "timeDay": 1821,
+    "timeWeek": 1466,
+    "timeMonth": 1471,
+    "timeYear": 1478,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 615,
-    "timeDay": 591,
-    "timeWeek": 593,
+    "timeDay": 603,
+    "timeWeek": 596,
     "timeMonth": 594,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 4
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$N_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-and-administration",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 44,
-    "timeWeek": 30,
+    "timeDay": 45,
+    "timeWeek": 32,
     "timeMonth": 37,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 4
     }
   },
   {
