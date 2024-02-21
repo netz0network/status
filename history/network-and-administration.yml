@@ -1,7 +1,7 @@
 url: $N_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-21T07:14:09.502Z
+status: up
+code: 200
+responseTime: 45
+lastUpdated: 2024-02-21T07:18:09.787Z
 startTime: 2023-12-16T04:29:08.219Z
 generator: Upptime <https://github.com/upptime/upptime>
