@@ -4,19 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1477,
-    "timeDay": 1372,
-    "timeWeek": 1480,
+    "timeDay": 1411,
+    "timeWeek": 1477,
     "timeMonth": 1465,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 565,
-    "timeWeek": 597,
-    "timeMonth": 592,
-    "timeYear": 614,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 615,
+    "timeDay": 622,
+    "timeWeek": 606,
+    "timeMonth": 595,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 5
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$N_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-and-administration",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 36,
     "timeDay": 27,
-    "timeWeek": 34,
+    "timeWeek": 33,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 5
     }
   },
   {
