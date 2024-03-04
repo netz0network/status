@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1477,
-    "timeDay": 1548,
-    "timeWeek": 1470,
-    "timeMonth": 1469,
-    "timeYear": 1477,
-    "dailyMinutesDown": {
-      "2024-03-03": 5
-    }
+    "time": 1476,
+    "timeDay": 1510,
+    "timeWeek": 1485,
+    "timeMonth": 1467,
+    "timeYear": 1476,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account & Support Area",
@@ -26,18 +24,16 @@
     "slug": "account-and-support-area",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 576,
-    "timeWeek": 618,
+    "time": 614,
+    "timeDay": 584,
+    "timeWeek": 619,
     "timeMonth": 600,
-    "timeYear": 615,
-    "dailyMinutesDown": {
-      "2024-03-03": 5
-    }
+    "timeYear": 614,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apps & Services",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 37,
-    "timeWeek": 37,
+    "timeDay": 38,
+    "timeWeek": 39,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {}
@@ -64,18 +60,16 @@
     "slug": "network-and-administration",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 42,
-    "timeWeek": 37,
+    "timeDay": 43,
+    "timeWeek": 39,
     "timeMonth": 37,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2024-03-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DNS 1",
@@ -90,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 36,
     "timeDay": 38,
-    "timeWeek": 37,
+    "timeWeek": 39,
     "timeMonth": 37,
     "timeYear": 36,
     "dailyMinutesDown": {}
@@ -107,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 40,
-    "timeWeek": 36,
+    "timeDay": 38,
+    "timeWeek": 38,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {}
@@ -125,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 33,
-    "timeWeek": 32,
-    "timeMonth": 34,
+    "timeDay": 27,
+    "timeWeek": 34,
+    "timeMonth": 33,
     "timeYear": 37,
     "dailyMinutesDown": {}
   }
