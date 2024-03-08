@@ -4,10 +4,10 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1473,
@@ -15,16 +15,18 @@
     "timeWeek": 1436,
     "timeMonth": 1457,
     "timeYear": 1473,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 1
+    }
   },
   {
     "name": "Account & Support Area",
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 574,
     "timeMonth": 598,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 0
+    }
   },
   {
     "name": "Apps & Services",
