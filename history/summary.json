@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1624,
-    "timeDay": 10774,
-    "timeWeek": 3516,
-    "timeMonth": 2007,
-    "timeYear": 1624,
-    "dailyMinutesDown": {
-      "2024-03-08": 2
-    }
+    "time": 1621,
+    "timeDay": 10712,
+    "timeWeek": 3490,
+    "timeMonth": 2001,
+    "timeYear": 1621,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account & Support Area",
@@ -26,18 +24,16 @@
     "slug": "account-and-support-area",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 613,
     "timeDay": 617,
-    "timeWeek": 585,
+    "timeWeek": 584,
     "timeMonth": 600,
     "timeYear": 613,
-    "dailyMinutesDown": {
-      "2024-03-08": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apps & Services",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 27,
-    "timeWeek": 36,
+    "timeDay": 25,
+    "timeWeek": 34,
     "timeMonth": 36,
     "timeYear": 37,
     "dailyMinutesDown": {}
@@ -69,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 27,
-    "timeWeek": 38,
+    "timeDay": 25,
+    "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {}
@@ -87,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 27,
-    "timeWeek": 36,
-    "timeMonth": 36,
+    "timeDay": 25,
+    "timeWeek": 34,
+    "timeMonth": 35,
     "timeYear": 36,
     "dailyMinutesDown": {}
   },
@@ -105,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 27,
-    "timeWeek": 36,
+    "timeDay": 26,
+    "timeWeek": 34,
     "timeMonth": 35,
     "timeYear": 36,
     "dailyMinutesDown": {}
@@ -123,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 51,
-    "timeWeek": 34,
-    "timeMonth": 33,
+    "timeDay": 12,
+    "timeWeek": 28,
+    "timeMonth": 32,
     "timeYear": 36,
     "dailyMinutesDown": {}
   }
