@@ -4,19 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1595,
-    "timeDay": 1297,
-    "timeWeek": 1405,
-    "timeMonth": 2020,
-    "timeYear": 1595,
+    "time": 1592,
+    "timeDay": 1262,
+    "timeWeek": 1383,
+    "timeMonth": 1995,
+    "timeYear": 1592,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 582,
-    "timeWeek": 585,
-    "timeMonth": 591,
-    "timeYear": 609,
+    "time": 608,
+    "timeDay": 562,
+    "timeWeek": 580,
+    "timeMonth": 589,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 5
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$N_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-and-administration",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 24,
-    "timeWeek": 34,
+    "timeDay": 27,
+    "timeWeek": 33,
     "timeMonth": 35,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 5
     }
   },
   {
