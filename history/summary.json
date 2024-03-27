@@ -6,8 +6,8 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1703,
@@ -15,20 +15,18 @@
     "timeWeek": 3205,
     "timeMonth": 2477,
     "timeYear": 1703,
-    "dailyMinutesDown": {
-      "2024-03-27": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account & Support Area",
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 608,
     "timeDay": 577,
@@ -36,7 +34,7 @@
     "timeMonth": 589,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-03-27": 0
+      "2024-03-27": 4
     }
   },
   {
