@@ -4,18 +4,20 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1591,
-    "timeDay": 1350,
+    "timeDay": 1473,
     "timeWeek": 1385,
     "timeMonth": 2000,
     "timeYear": 1591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 0
+    }
   },
   {
     "name": "Account & Support Area",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 560,
+    "timeDay": 577,
     "timeWeek": 580,
     "timeMonth": 589,
     "timeYear": 608,
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 35,
+    "timeDay": 41,
     "timeWeek": 33,
     "timeMonth": 36,
     "timeYear": 36,
