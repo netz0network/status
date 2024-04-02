@@ -4,36 +4,40 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1693,
-    "timeDay": 1436,
-    "timeWeek": 3242,
+    "time": 1691,
+    "timeDay": 1460,
+    "timeWeek": 3493,
     "timeMonth": 2411,
-    "timeYear": 1693,
-    "dailyMinutesDown": {}
+    "timeYear": 1691,
+    "dailyMinutesDown": {
+      "2024-04-02": 1
+    }
   },
   {
     "name": "Account & Support Area",
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 587,
-    "timeWeek": 574,
+    "timeDay": 576,
+    "timeWeek": 578,
     "timeMonth": 579,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-02": 0
+    }
   },
   {
     "name": "Apps & Services",
@@ -47,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 46,
+    "timeDay": 42,
     "timeWeek": 41,
     "timeMonth": 36,
     "timeYear": 37,
@@ -58,18 +62,20 @@
     "url": "$N_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-and-administration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 43,
-    "timeWeek": 38,
+    "timeDay": 41,
+    "timeWeek": 39,
     "timeMonth": 36,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-02": 0
+    }
   },
   {
     "name": "DNS 1",
@@ -83,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 43,
+    "timeDay": 41,
     "timeWeek": 40,
     "timeMonth": 35,
     "timeYear": 36,
@@ -101,7 +107,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 39,
+    "timeDay": 41,
     "timeWeek": 39,
     "timeMonth": 35,
     "timeYear": 36,
@@ -119,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 27,
+    "timeDay": 52,
     "timeWeek": 34,
-    "timeMonth": 33,
+    "timeMonth": 34,
     "timeYear": 36,
     "dailyMinutesDown": {}
   }
