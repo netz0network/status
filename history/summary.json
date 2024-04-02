@@ -4,19 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1691,
-    "timeDay": 1460,
-    "timeWeek": 3493,
-    "timeMonth": 2411,
-    "timeYear": 1691,
+    "time": 1690,
+    "timeDay": 1448,
+    "timeWeek": 3264,
+    "timeMonth": 2384,
+    "timeYear": 1690,
     "dailyMinutesDown": {
-      "2024-04-02": 1
+      "2024-04-02": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 576,
-    "timeWeek": 578,
+    "time": 606,
+    "timeDay": 569,
+    "timeWeek": 576,
     "timeMonth": 579,
-    "timeYear": 607,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-04-02": 0
+      "2024-04-02": 4
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$N_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-and-administration",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 41,
-    "timeWeek": 39,
-    "timeMonth": 36,
+    "timeDay": 34,
+    "timeWeek": 38,
+    "timeMonth": 35,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-04-02": 0
+      "2024-04-02": 4
     }
   },
   {
