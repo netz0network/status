@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1690,
     "timeDay": 1448,
     "timeWeek": 3264,
     "timeMonth": 2384,
     "timeYear": 1690,
-    "dailyMinutesDown": {
-      "2024-04-02": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account & Support Area",
@@ -26,18 +24,16 @@
     "slug": "account-and-support-area",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 569,
     "timeWeek": 576,
     "timeMonth": 579,
     "timeYear": 606,
-    "dailyMinutesDown": {
-      "2024-04-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apps & Services",
@@ -64,18 +60,16 @@
     "slug": "network-and-administration",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
     "timeDay": 34,
     "timeWeek": 38,
     "timeMonth": 35,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2024-04-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DNS 1",
