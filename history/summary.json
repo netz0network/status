@@ -4,7 +4,7 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1367,
     "timeMonth": 1383,
     "timeYear": 1637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-05": 0
+    }
   },
   {
     "name": "Account & Support Area",
