@@ -4,19 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1637,
-    "timeDay": 1339,
-    "timeWeek": 1367,
-    "timeMonth": 1383,
-    "timeYear": 1637,
+    "time": 1636,
+    "timeDay": 1419,
+    "timeWeek": 1384,
+    "timeMonth": 1387,
+    "timeYear": 1636,
     "dailyMinutesDown": {
-      "2024-05-05": 0
+      "2024-05-05": 5
     }
   },
   {
