@@ -4,19 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1623,
-    "timeDay": 1415,
-    "timeWeek": 1396,
-    "timeMonth": 1387,
-    "timeYear": 1623,
+    "time": 1621,
+    "timeDay": 1383,
+    "timeWeek": 1387,
+    "timeMonth": 1385,
+    "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-05-15": 1
+      "2024-05-15": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 604,
-    "timeDay": 564,
-    "timeWeek": 571,
-    "timeMonth": 575,
+    "timeDay": 559,
+    "timeWeek": 569,
+    "timeMonth": 574,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-05-15": 0
+      "2024-05-15": 4
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$N_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-and-administration",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 35,
-    "timeDay": 33,
-    "timeWeek": 33,
+    "timeDay": 31,
+    "timeWeek": 32,
     "timeMonth": 33,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2024-05-15": 0
+      "2024-05-15": 4
     }
   },
   {
