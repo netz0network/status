@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1571,
-    "timeDay": 1259,
+    "timeDay": 1533,
     "timeWeek": 1381,
     "timeMonth": 1386,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2024-07-09": 5,
       "2024-07-08": 25,
       "2024-05-15": 5
     }
@@ -28,17 +27,16 @@
     "slug": "account-and-support-area",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 597,
-    "timeDay": 520,
+    "timeDay": 586,
     "timeWeek": 558,
     "timeMonth": 569,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-07-09": 4,
       "2024-07-08": 25,
       "2024-05-15": 4
     }
@@ -48,9 +46,9 @@
     "url": "174.136.17.9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "apps-and-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +57,9 @@
     "timeWeek": 40,
     "timeMonth": 36,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "Network & Administration",
@@ -68,9 +68,9 @@
     "slug": "network-and-administration",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
     "timeDay": 38,
@@ -78,7 +78,6 @@
     "timeMonth": 35,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2024-07-09": 4,
       "2024-05-15": 4
     }
   },
