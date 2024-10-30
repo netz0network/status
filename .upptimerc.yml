@@ -14,11 +14,6 @@ sites:
     url: 174.136.17.9
     port: 80
 
-  - name: Network & Administration
-    check: "tcp-ping"
-    url: $N_IP
-    port: 80
-
   - name: DNS 1
     check: "tcp-ping"
     url: ns1.netz0.net
