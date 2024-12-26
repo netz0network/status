@@ -4,18 +4,19 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1345,
     "timeDay": 1125,
     "timeWeek": 1033,
     "timeMonth": 1025,
-    "timeYear": 1331,
+    "timeYear": 1329,
     "dailyMinutesDown": {
+      "2024-12-26": 4,
       "2024-07-14": 30,
       "2024-07-08": 25,
       "2024-05-15": 5
@@ -26,18 +27,19 @@
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 502,
     "timeDay": 363,
     "timeWeek": 363,
     "timeMonth": 367,
-    "timeYear": 492,
+    "timeYear": 490,
     "dailyMinutesDown": {
+      "2024-12-26": 4,
       "2024-07-14": 30,
       "2024-07-08": 25,
       "2024-05-15": 4
@@ -48,11 +50,11 @@
     "url": "174.136.17.9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "apps-and-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 44,
@@ -60,6 +62,7 @@
     "timeMonth": 38,
     "timeYear": 37,
     "dailyMinutesDown": {
+      "2024-12-26": 3,
       "2024-08-30": 15,
       "2024-07-09": 17
     }
@@ -69,10 +72,10 @@
     "url": "ns1.netz0.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
@@ -80,16 +83,18 @@
     "timeWeek": 35,
     "timeMonth": 36,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 1
+    }
   },
   {
     "name": "DNS 2",
     "url": "ns2.netz0.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +103,9 @@
     "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 0
+    }
   },
   {
     "name": "DNS 3",
