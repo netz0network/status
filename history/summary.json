@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1262,
-    "timeDay": 1322,
-    "timeWeek": 1048,
-    "timeMonth": 1038,
-    "timeYear": 1083,
+    "time": 1261,
+    "timeDay": 1042,
+    "timeWeek": 1035,
+    "timeMonth": 1029,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-12-26": 79,
       "2024-07-14": 30,
-      "2024-07-08": 25,
-      "2024-05-15": 5
+      "2024-07-08": 25
     }
   },
   {
@@ -33,16 +32,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 436,
-    "timeDay": 386,
-    "timeWeek": 369,
-    "timeMonth": 365,
-    "timeYear": 398,
+    "time": 435,
+    "timeDay": 353,
+    "timeWeek": 365,
+    "timeMonth": 364,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2024-12-26": 75,
       "2024-07-14": 30,
-      "2024-07-08": 25,
-      "2024-05-15": 4
+      "2024-07-08": 25
     }
   },
   {
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 37,
-    "timeDay": 44,
-    "timeWeek": 40,
-    "timeMonth": 39,
+    "timeDay": 32,
+    "timeWeek": 37,
+    "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {
       "2024-12-26": 73,
@@ -79,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 36,
-    "timeDay": 42,
-    "timeWeek": 38,
-    "timeMonth": 38,
+    "timeDay": 30,
+    "timeWeek": 36,
+    "timeMonth": 37,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2024-12-26": 72
@@ -99,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 36,
-    "timeDay": 43,
-    "timeWeek": 38,
-    "timeMonth": 38,
+    "timeDay": 30,
+    "timeWeek": 36,
+    "timeMonth": 37,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2024-12-26": 71
@@ -119,7 +117,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 32,
+    "timeDay": 53,
     "timeWeek": 32,
     "timeMonth": 32,
     "timeYear": 34,
