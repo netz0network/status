@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1091,
     "timeDay": 1006,
@@ -16,7 +16,6 @@
     "timeMonth": 976,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2025-07-22": 3,
       "2024-12-26": 79
     }
   },
@@ -27,9 +26,9 @@
     "slug": "account-and-support-area",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 403,
     "timeDay": 381,
@@ -37,7 +36,6 @@
     "timeMonth": 366,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-07-22": 3,
       "2024-12-26": 75
     }
   },
