@@ -1,7 +1,7 @@
 url: https://netz0.com/global/check
-status: up
-code: 200
-responseTime: 367
-lastUpdated: 2025-11-10T23:19:41.536Z
+status: down
+code: 503
+responseTime: 21
+lastUpdated: 2025-11-11T19:55:23.548Z
 startTime: 2023-12-16T04:29:06.667Z
 generator: Upptime <https://github.com/upptime/upptime>
