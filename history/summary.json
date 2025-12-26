@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1012,
-    "timeDay": 1085,
-    "timeWeek": 999,
-    "timeMonth": 976,
-    "timeYear": 1014,
-    "dailyMinutesDown": {
-      "2024-12-26": 79
-    }
+    "timeDay": 899,
+    "timeWeek": 970,
+    "timeMonth": 972,
+    "timeYear": 1013,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account & Support Area",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 363,
-    "timeDay": 373,
-    "timeWeek": 362,
+    "timeDay": 357,
+    "timeWeek": 361,
     "timeMonth": 363,
     "timeYear": 364,
-    "dailyMinutesDown": {
-      "2024-12-26": 75
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apps & Services",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 36,
-    "timeDay": 43,
-    "timeWeek": 35,
+    "timeDay": 33,
+    "timeWeek": 34,
     "timeMonth": 32,
     "timeYear": 35,
-    "dailyMinutesDown": {
-      "2024-12-26": 73
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DNS 1",
@@ -71,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 34,
-    "timeDay": 41,
-    "timeWeek": 33,
+    "timeDay": 32,
+    "timeWeek": 32,
     "timeMonth": 30,
     "timeYear": 33,
-    "dailyMinutesDown": {
-      "2024-12-26": 72
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DNS 2",
@@ -91,13 +83,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 38,
-    "timeDay": 41,
-    "timeWeek": 33,
+    "timeDay": 30,
+    "timeWeek": 32,
     "timeMonth": 30,
     "timeYear": 39,
-    "dailyMinutesDown": {
-      "2024-12-26": 71
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DNS 3",
@@ -111,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 50,
-    "timeWeek": 38,
-    "timeMonth": 33,
+    "timeDay": 33,
+    "timeWeek": 35,
+    "timeMonth": 32,
     "timeYear": 33,
     "dailyMinutesDown": {}
   }
