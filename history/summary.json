@@ -4,9 +4,9 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,44 +15,48 @@
     "timeWeek": 1054,
     "timeMonth": 997,
     "timeYear": 1006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-04": 0
+    }
   },
   {
     "name": "Account & Support Area",
     "url": "https://netz0.com/global/check",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 392,
-    "timeWeek": 382,
-    "timeMonth": 376,
-    "timeYear": 366,
-    "dailyMinutesDown": {}
+    "time": 364,
+    "timeDay": 218,
+    "timeWeek": 340,
+    "timeMonth": 365,
+    "timeYear": 365,
+    "dailyMinutesDown": {
+      "2026-05-04": 0
+    }
   },
   {
     "name": "Apps & Services",
     "url": "174.136.17.9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "apps-and-services",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 41,
+    "timeDay": 42,
     "timeWeek": 36,
     "timeMonth": 32,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2026-05-04": 0
+      "2026-05-04": 4
     }
   },
   {
