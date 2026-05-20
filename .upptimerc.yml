@@ -7,7 +7,7 @@ sites:
     url: https://netz0.com
 
   - name: Account & Support Area
-    url: https://netz0.com/global/check
+    url: https://netz0.com/version
 
   - name: Apps & Services
     check: "tcp-ping"
