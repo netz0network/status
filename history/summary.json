@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -17,7 +17,8 @@
     "timeYear": 930,
     "dailyMinutesDown": {
       "2026-05-04": 37,
-      "2026-05-20": 45
+      "2026-05-20": 45,
+      "2026-06-27": 0
     }
   },
   {
@@ -25,20 +26,21 @@
     "url": "https://netz0.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 360,
-    "timeDay": 223,
-    "timeWeek": 225,
-    "timeMonth": 244,
+    "timeDay": 247,
+    "timeWeek": 231,
+    "timeMonth": 245,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2026-05-04": 37,
-      "2026-05-20": 77
+      "2026-05-20": 77,
+      "2026-06-27": 0
     }
   },
   {
