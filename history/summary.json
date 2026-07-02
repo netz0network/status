@@ -66,20 +66,20 @@
     "url": "ns1.netz0.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "86.34%",
-    "uptimeWeek": "98.05%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
     "time": 31,
-    "timeDay": 26,
-    "timeWeek": 27,
+    "timeDay": 27,
+    "timeWeek": 28,
     "timeMonth": 31,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2026-07-01": 111,
-      "2026-07-02": 86
+      "2026-07-02": 87
     }
   },
   {
