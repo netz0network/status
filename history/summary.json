@@ -68,9 +68,9 @@
     "slug": "dns-1",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "85.85%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
     "time": 31,
     "timeDay": 30,
@@ -79,7 +79,7 @@
     "timeYear": 30,
     "dailyMinutesDown": {
       "2026-07-01": 111,
-      "2026-07-02": 93
+      "2026-07-02": 87
     }
   },
   {
@@ -87,9 +87,9 @@
     "url": "ns2.netz0.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "96.68%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
