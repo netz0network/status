@@ -68,10 +68,10 @@
     "slug": "dns-1",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "87.37%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.34%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.96%",
     "time": 31,
     "timeDay": 26,
     "timeWeek": 27,
@@ -79,7 +79,7 @@
     "timeYear": 30,
     "dailyMinutesDown": {
       "2026-07-01": 111,
-      "2026-07-02": 71
+      "2026-07-02": 86
     }
   },
   {
