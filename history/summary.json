@@ -46,20 +46,20 @@
     "url": "174.136.17.9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "apps-and-services",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 33,
-    "timeWeek": 33,
+    "timeDay": 38,
+    "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 32,
     "dailyMinutesDown": {
       "2026-05-04": 4,
-      "2026-07-22": 0
+      "2026-07-22": 15
     }
   },
   {
