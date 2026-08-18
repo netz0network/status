@@ -1,7 +1,7 @@
 url: https://netz0.com/version
-status: up
-code: 200
-responseTime: 184
-lastUpdated: 2026-08-18T13:05:15.438Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2026-08-18T23:05:39.118Z
 startTime: 2023-12-16T04:29:06.667Z
 generator: Upptime <https://github.com/upptime/upptime>
