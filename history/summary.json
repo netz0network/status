@@ -4,17 +4,17 @@
     "url": "https://netz0.com",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
-    "time": 770,
-    "timeDay": 249,
-    "timeWeek": 296,
+    "time": 769,
+    "timeDay": 297,
+    "timeWeek": 306,
     "timeMonth": 361,
-    "timeYear": 668,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2026-05-04": 37,
       "2026-05-20": 45,
@@ -22,7 +22,7 @@
       "2026-08-01": 8,
       "2026-08-18": 20,
       "2026-09-07": 50,
-      "2026-11-20": 0
+      "2026-11-20": 5
     }
   },
   {
@@ -30,16 +30,16 @@
     "url": "https://netz0.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/netz0.com.ico",
     "slug": "account-and-support-area",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 329,
-    "timeDay": 180,
+    "timeDay": 179,
     "timeWeek": 178,
-    "timeMonth": 332,
+    "timeMonth": 329,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2026-05-04": 37,
@@ -48,7 +48,7 @@
       "2026-08-01": 8,
       "2026-08-18": 20,
       "2026-09-07": 45,
-      "2026-11-20": 0
+      "2026-11-20": 5
     }
   },
   {
